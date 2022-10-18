@@ -14,7 +14,7 @@ int main()
 	double z2; // результат обчислення 2-го виразу
 	cout << "a =  "; cin >> a;
 	cout << "B = "; cin >> B;
-	z1 = (sin(a) + cos(2 * B - a)) / (cos(a) - sin(2 * B - a));
+//	z1 = (sin(a) + cos(2 * B - a)) / (cos(a) - sin(2 * B - a));
 	z2 = (1 + sin(2 * B)) / (cos(2 * B));
 	cout << endl;
 	cout << "z1 = " << z1 << endl;
